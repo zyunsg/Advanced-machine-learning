@@ -1,9 +1,9 @@
-# Advanced-machine-learning-coursera
+# Advanced Machine Learning Coursera
 ByNational Research University Higher School of Economics
 
 ## Introduction
 
-All my programming assignments for the [Advanced-machine-learning](https://www.coursera.org/specializations/aml) are kept in this repo. This is only for reference and learning track.
+All my programming assignments for the [Advanced Machine Learning on Coursera](https://www.coursera.org/specializations/aml) are kept in this repo. This is only for reference and learning track.
 
 ## Links to Courses
 
