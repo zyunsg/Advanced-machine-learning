@@ -7,7 +7,7 @@ All my programming assignments for the [Advanced-machine-learning](https://www.c
 
 ## Links to Courses
 
-- [ ] [Course1: Introduction to Deep Learning](https://github.com/zyunsg/Applied-Data-Science-with-Python-Specialization/tree/master/course1)
+- [ ] [Course1: Introduction to Deep Learning](https://github.com/zyunsg/Advanced-machine-learning/tree/master/course1)
   - [x] [week1](https://github.com/zyunsg/Advanced-machine-learning/tree/master/course1/week1)
   - [ ] [week2](https://github.com/zyunsg/Advanced-machine-learning/tree/master/course1/week2)
   - [ ] [week3](https://github.com/zyunsg/Advanced-machine-learning/tree/master/course1/week3)
